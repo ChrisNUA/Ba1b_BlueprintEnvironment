@@ -1,0 +1,37 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/CMB/Github/Ba1b_BlueprintEnvironment/Content/Assets/Drawbridge/Drawbridge.uasset",
+				"D:/CMB/Github/Ba1b_BlueprintEnvironment/Content/Assets/Drawbridge/Archway.uasset",
+				"D:/CMB/Github/Ba1b_BlueprintEnvironment/Content/Blueprints/BP_Lever.uasset",
+				"D:/CMB/Github/Ba1b_BlueprintEnvironment/Content/Sequences/LS_Drawbridge.uasset",
+				"D:/CMB/Github/Ba1b_BlueprintEnvironment/Content/Blueprints/BP_Level.uasset",
+				"D:/CMB/Github/Ba1b_BlueprintEnvironment/Content/Blueprints/LevelSequenceMethod/BP_Level.uasset",
+				"D:/CMB/Github/Ba1b_BlueprintEnvironment/Content/__ExternalActors__/ba1b_CustomMap/4/QI/B5BT9QEDRE9M8GPIZEH6VR.uasset",
+				"D:/CMB/Github/Ba1b_BlueprintEnvironment/Content/__ExternalActors__/ba1b_CustomMap/8/7U/KW2JBOIOGZEXB0NP5CRG43.uasset",
+				"D:/CMB/Github/Ba1b_BlueprintEnvironment/Content/__ExternalActors__/ba1b_CustomMap/B/3X/2YEAP2XV2U9D801PLACPDY.uasset",
+				"D:/CMB/Github/Ba1b_BlueprintEnvironment/Content/__ExternalActors__/ba1b_CustomMap/B/UC/IM0C1B3ENR5Z2YLL4IRP25.uasset",
+				"D:/CMB/Github/Ba1b_BlueprintEnvironment/Content/__ExternalActors__/ba1b_CustomMap/1/H7/W4JOQIU154UGFDYC1HWH5L.uasset",
+				"D:/CMB/Github/Ba1b_BlueprintEnvironment/Content/__ExternalActors__/ba1b_CustomMap/6/MB/3524LV580G156GLKVQ79N2.uasset",
+				"D:/CMB/Github/Ba1b_BlueprintEnvironment/Content/__ExternalActors__/ba1b_CustomMap/7/LK/TPGFUVOJLPM4LBOIAQNI84.uasset",
+				"D:/CMB/Github/Ba1b_BlueprintEnvironment/Content/__ExternalActors__/ba1b_CustomMap/3/0S/IHQKV00IPMQ5HUCF2D02AN.uasset",
+				"D:/CMB/Github/Ba1b_BlueprintEnvironment/Content/__ExternalActors__/ba1b_CustomMap/1/U0/DMROASMZAFK2QM6353GAE0.uasset",
+				"D:/CMB/Github/Ba1b_BlueprintEnvironment/Content/Ba1b_Collectables/Blueprints/DoorFunction/OpeningDoor.uasset",
+				"D:/CMB/Github/Ba1b_BlueprintEnvironment/Content/Assets/Drawbridge/openPBR_shader1.uasset",
+				"D:/CMB/Github/Ba1b_BlueprintEnvironment/Content/Blueprints/LevelSequenceMethod/BP_LeverExampleOne.uasset",
+				"D:/CMB/Github/Ba1b_BlueprintEnvironment/Content/Blueprints/GetActorWithClass/BP_LevelExampleTwo.uasset",
+				"D:/CMB/Github/Ba1b_BlueprintEnvironment/Content/Blueprints/GetActorWithClass/BP_Drawbridge.uasset",
+				"D:/CMB/Github/Ba1b_BlueprintEnvironment/Content/__ExternalActors__/ba1b_CustomMap/1/T7/L8V9J9TGPBUVOG0K0Y8OZN.uasset",
+				"D:/CMB/Github/Ba1b_BlueprintEnvironment/Content/__ExternalActors__/ba1b_CustomMap/C/TK/YQLQWKLWX6L8YB2QZOGE7Y.uasset",
+				"D:/CMB/Github/Ba1b_BlueprintEnvironment/Content/__ExternalActors__/ba1b_CustomMap/D/4M/QKOT0ZFRUL89F0YA0B92UD.uasset",
+				"D:/CMB/Github/Ba1b_BlueprintEnvironment/Content/Blueprints/GetActorWithClass/BP_Lever.uasset",
+				"D:/CMB/Github/Ba1b_BlueprintEnvironment/Content/Sequences/LS_Example.uasset",
+				"D:/CMB/Github/Ba1b_BlueprintEnvironment/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Fx/Niagara_Systems/NS_Muzzle_5.uasset"
+			]
+		}
+	]
+}
